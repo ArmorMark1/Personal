@@ -1,0 +1,12 @@
+set number
+syntax on
+set termguicolors
+set background=dark
+colorscheme elflord 
+set incsearch
+set hlsearch
+set cursorline
+set mouse=a
+set undofile
+set undodir=~/.vim/undodir
+set clipboard=unnamedplus
