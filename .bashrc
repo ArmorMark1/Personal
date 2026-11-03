@@ -1,4 +1,7 @@
-alias c='clear'
+c() {
+    cd "$@"
+}
+alias cl='clear'
 alias ll='ls -lahF'
 alias ..='cd ..'
 
