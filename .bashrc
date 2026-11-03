@@ -10,3 +10,4 @@ if [ "$color_prompt" = yes ]; then
 else
   PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$|$(__git_ps1)'
 fi 
+alias fast_push='git add .;git commit -m "This is a fast and urgente push dont considere this comment";git push'
