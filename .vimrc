@@ -10,3 +10,4 @@ set mouse=a
 set undofile
 set undodir=~/.vim/undodir
 set clipboard=unnamedplus
+set autoindent
